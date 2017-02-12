@@ -1,0 +1,46 @@
+#Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+#Consec Scripts
+**/WEB-INF/classes
+
+#Derby
+derby.log
+
+#Excelsior Jet
+*jetpdb/
+*.startup
+*.usg
+
+#Java Archives
+*.jar
+*.war
+
+#Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+#IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#Netbeans
+nbproject/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+#Vagrant
+.vagrant/

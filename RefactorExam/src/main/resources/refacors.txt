@@ -1,0 +1,12 @@
+1) classes clustered
+separate to different files
+Query, Request, Topic, Questions
+
+2) use java 8 predicate collections to validate inputs
+3) use JAva 8 Collection stream
+4) misuse of bitwise operations
+5) check nullness of input
+6) extract constants
+7) create untility classes to do the calculations
+
+
